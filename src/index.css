@@ -1,13 +1,4 @@
 body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-}
-
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+  background-image: url("C:\Users\yumik\Documents\Faculdade\GTI\Trabalho de Conclusão de Curso\Project\collabore\src\Images\CAMPANHA-DOACAO-DE-ALIMENTOS-E-HIGIENE-PESSOAL(2).jpg");
+  background-attachment: fixed;
 }

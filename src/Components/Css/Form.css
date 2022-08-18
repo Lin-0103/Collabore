@@ -1,0 +1,42 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+#formCadastro {
+  background-color: rgb(255, 255, 255);
+  width: 80%;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 15px;
+  margin-top: 30px;
+  border-radius: 10px;
+  align-content: center;
+}
+#form h1 {
+  text-align: center;
+}
+
+#pass-group {
+  display: flex;
+  align-items: center;
+}
+#pass {
+  margin-right: 10px;
+  height: 100%;
+}
+.depoimentInput {
+  margin: 7px;
+}
+form h1 {
+  text-align: center;
+}
+#btn {
+  display: flex;
+  justify-content: center;
+}
+#link {
+  text-decoration: none;
+  text-align: center;
+  color: white;
+}

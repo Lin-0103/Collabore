@@ -1,0 +1,42 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+:root {
+  --Main-Color: #4ea2e3;
+}
+.Head {
+  display: flex;
+  justify-content: space-around;
+  width: 80%;
+  color: black;
+  background-color: white;
+  margin-top: 30px;
+  padding: 10px;
+  margin-left: auto;
+  margin-right: auto;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+}
+.Head p,
+.OngsValue p {
+  margin: 0 0 0 0;
+}
+
+.OngsValue {
+  display: flex;
+  justify-content: space-around;
+  width: 80%;
+  color: black;
+  background-color: white;
+  margin-top: 7px;
+  padding: 10px;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 10px;
+  text-decoration: none;
+}
+.OngsValue:hover {
+  background-color: var(--Main-Color);
+  color: white;
+}

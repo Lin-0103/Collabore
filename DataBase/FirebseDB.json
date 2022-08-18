@@ -1,0 +1,62 @@
+{
+  "ONGs": [
+    {
+      "MapsLink": "",
+      "cidade": "",
+      "descricao": "",
+      "email": "",
+      "endereco": "",
+      "id": 0,
+      "nome": "",
+      "telefone": ""
+    },
+    {
+      "MapsLink": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3667.6916229275816!2d-46.88516518522418!3d-23.181452553556817!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94cf26f327da8701%3A0x14d9db18c6f7fd60!2sFATEC%20-%20Jundiai!5e0!3m2!1spt-BR!2sbr!4v1644505855044!5m2!1spt-BR!2sbr\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\"></iframe>",
+      "cidade": "Jundiai",
+      "descricao": "Seja Bem vindo a Pagina da Nossa ONG",
+      "email": "elianrodrigues3@gmail.com",
+      "endereco": "Rua São Bento 208",
+      "id": 1,
+      "nome": "Ong 1",
+      "telefone": "11997864990"
+    },
+    {
+      "MapsLink": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3667.6916229275816!2d-46.88516518522418!3d-23.181452553556817!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94cf26f327da8701%3A0x14d9db18c6f7fd60!2sFATEC%20-%20Jundiai!5e0!3m2!1spt-BR!2sbr!4v1644505855044!5m2!1spt-BR!2sbr\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\"></iframe>",
+      "cidade": "Jundiai",
+      "descricao": "Seja bem vindo a pagina da Ong 2",
+      "email": "elianrodrigues3@gmail.com",
+      "endereco": "Rua São Bento 208",
+      "id": 2,
+      "nome": "ONG 2",
+      "telefone": "11997864990"
+    }
+  ],
+  "Parceiros": [
+    {
+      "Descrição": "",
+      "Link": "",
+      "Nome": "",
+      "id": 0
+    }
+  ],
+  "Posts": [
+    {
+      "id": 0,
+      "OngPost": 0,
+      "Descricao": "",
+      "Image": ""
+    },
+    {
+      "id": 1,
+      "OngPost": 1,
+      "Descricao": "Ola",
+      "Image": "Ola"
+    },
+    {
+      "id": 2,
+      "OngPost": 1,
+      "Descricao": "Ola",
+      "Image": "Ola"
+    }
+  ]
+}

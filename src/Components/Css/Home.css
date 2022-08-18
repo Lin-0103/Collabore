@@ -1,0 +1,74 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+:root {
+  --Main-Color: #4ea2e3;
+}
+#Home {
+  height: 500px;
+  display: flex;
+  align-items: center;
+}
+#HomeText {
+  text-align: left;
+  color: white;
+  padding: 30px;
+  margin-bottom: 70px;
+}
+#HomeText h1 {
+  font-size: 60pt;
+}
+button {
+  background-color: var(--Main-Color);
+  border-color: transparent;
+  color: white;
+  padding: 5px;
+  border-radius: 5px;
+  margin: 10px;
+}
+#FomeNoMundo,
+#SobreOProjeto {
+  text-align: center;
+  color: black;
+  background-color: white;
+  padding: 20px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 30px;
+  margin-top: 30px;
+  font-size: 17pt;
+}
+.DivParceiros,
+.OngsDiv {
+  color: black;
+  width: 90%;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  color: white;
+  margin-bottom: 30px;
+}
+.DadosDoSite h1,
+.OngsDiv h1 {
+  margin: 15px;
+}
+.Parceiros,
+.Ongs {
+  display: flex;
+  justify-content: space-around;
+}
+.Parceiro,
+.Ong {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 20%;
+  border: 1px solid white;
+  border-radius: 5px;
+  padding: 5px;
+  text-align: center;
+}
+#link {
+  text-decoration: none;
+}

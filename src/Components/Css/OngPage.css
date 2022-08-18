@@ -1,0 +1,86 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+:root {
+  --backgroundDiv-color: rgba(255, 255, 255, 0.178);
+}
+#Main {
+  padding-top: 30px;
+}
+#Ong {
+  text-align: center;
+}
+#Ong h1 {
+  font-size: 45pt;
+  color: white;
+}
+#History {
+  margin-top: 30px;
+  background-color: var(--backgroundDiv-color);
+}
+#History p {
+  font-size: 25pt;
+  color: white;
+}
+.DepoimentsDiv h1 {
+  text-align: center;
+  color: white;
+}
+.Depoiments {
+  display: flex;
+  justify-content: space-around;
+}
+.Depoiment {
+  width: 20%;
+  border: 1px solid white;
+  border-radius: 5px;
+  padding: 5px;
+  text-align: center;
+  color: white;
+}
+iframe {
+  width: 700px;
+  height: 500px;
+  border-radius: 10px;
+}
+#DonateSec {
+  background-color: var(--backgroundDiv-color);
+  text-align: center;
+  color: white;
+  margin-top: 30px;
+}
+#formDiv {
+  display: flex;
+  justify-content: space-around;
+}
+#form {
+  display: flex;
+  justify-content: space-around;
+  padding-bottom: 30px;
+}
+#DonateDiv {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+#Post {
+  background-color: white;
+  margin: 10px;
+  width: fit-content;
+  padding: 10px;
+  margin-right: auto;
+  margin-left: auto;
+  border-radius: 10px;
+}
+img {
+  box-shadow: 10px;
+}
+#postsdiv h1 {
+  color: white;
+  text-align: center;
+}
+#NonePost {
+  text-align: center;
+  color: white;
+}
